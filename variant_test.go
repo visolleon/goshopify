@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	httpmock "github.com/jarcoal/httpmock"
 	"github.com/shopspring/decimal"
-	httpmock "gopkg.in/jarcoal/httpmock.v1"
 )
 
 func variantTests(t *testing.T, variant Variant) {
