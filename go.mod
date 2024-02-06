@@ -1,4 +1,4 @@
-module goshopify
+module github.com/visolleon/goshopify
 
 go 1.21.6
 
